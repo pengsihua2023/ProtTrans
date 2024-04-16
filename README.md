@@ -3,6 +3,8 @@
 <br/>
 
 <br/>
+### ProtTrans
+ProtTrans是一个基于最新的自然语言处理技术（如BERT和T5）的预训练蛋白质语言模型集合。这些模型在大规模的蛋白质数据库上预训练，能够生成高质量的蛋白质序列嵌入，用于后续的生物学分析和预测。  
 
 [ProtTrans](https://github.com/agemagician/ProtTrans/) is providing **state of the art pre-trained models for proteins**. ProtTrans was trained on **thousands of GPUs from Summit** and **hundreds of Google TPUs** using various **Transformer models**.
 
